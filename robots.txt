@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eman-2ro.pages.dev/sitemap.xml
